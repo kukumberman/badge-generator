@@ -1,0 +1,24 @@
+{
+  "style": "for-the-badge",
+  "badges": [
+    { "title": "c#", "logo": "csharp", "color": "#178600", "logoColor": "white", "clickable": "https://docs.microsoft.com/en-us/dotnet/csharp/" },
+    { "title": "c++", "logo": "c++", "color": "#f34b7d", "logoColor": "white", "clickable": "https://docs.microsoft.com/en-us/cpp/" },
+    { "title": "javascript", "logo": "javascript", "color": "#f1e05a", "logoColor": "black", "clickable": "https://developer.mozilla.org/docs/Web/JavaScript" },
+    { "title": "python", "logo": "python", "color": "#3572A5", "logoColor": "white", "clickable": "https://www.python.org/" },
+    { "title": "html", "logo": "html5", "color": "#e34c26", "logoColor": "white", "clickable": "https://developer.mozilla.org/docs/Web/HTML" },
+    { "title": "css", "logo": "css3", "color": "#1572B6", "logoColor": "white", "clickable": "https://developer.mozilla.org/docs/Learn/Getting_started_with_the_web/CSS_basics" },
+    { "title": "bootstrap", "logo": "bootstrap", "color": "#7952B3", "logoColor": "white", "clickable": "https://getbootstrap.com/" },
+    { "title": "webpack", "logo": "webpack", "color": "#4285F4", "logoColor": "white", "clickable": "https://webpack.js.org/" },
+    { "title": "vue.js", "logo": "vue.js", "color": "#41b883", "logoColor": "white", "clickable": "https://vuejs.org/" },
+    { "title": "node.js", "logo": "node.js", "color": "#339933", "logoColor": "white", "clickable": "https://nodejs.org/" },
+    { "title": "express.js", "logo": "express", "color": "#17202C", "logoColor": "white", "clickable": "https://expressjs.com/" },
+    { "title": "mongodb", "logo": "mongodb", "color": "#47A248", "logoColor": "white", "clickable": "https://www.mongodb.com/" },
+    { "title": "sql", "logo": "mysql", "color": "#4169E1", "logoColor": "white", "clickable": "https://www.mysql.com/" },
+    { "title": "git", "logo": "git", "color": "#F05032", "logoColor": "white", "clickable": "https://git-scm.com/" },
+    { "title": "trello", "logo": "trello", "color": "#0052CC", "logoColor": "white", "clickable": "https://trello.com/" },
+    { "title": "unity", "logo": "unity", "color": "#363636", "logoColor": "white", "clickable": "https://unity.com/" },
+    { "title": "windows 10", "logo": "windows", "color": "#0078D6", "logoColor": "white", "clickable": "https://www.microsoft.com/windows/get-windows-10" },
+    { "title": "visual studio", "logo": "visualstudio", "color": "#5C2D91", "logoColor": "white", "clickable": "https://visualstudio.microsoft.com/" },
+    { "title": "visual studio code", "logo": "visualstudiocode", "color": "#007ACC", "logoColor": "white", "clickable": "https://code.visualstudio.com/" }
+  ]
+}
